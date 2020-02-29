@@ -1,0 +1,13 @@
+a=1
+while(a<6)
+{
+  print(a)
+  a=a+1
+}
+repeat
+{
+  print(a)
+  a=a+1
+  if(a==6)
+    break
+}
